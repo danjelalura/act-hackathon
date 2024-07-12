@@ -4,7 +4,7 @@ Table of contents
 =================
 
 * [Mission](#mission)
-* [Guidelines](#guidelines)
+* [Guidelines](#guidelines) 
 * [Ideas](#ideas)
 * [Agenda](#agenda)
 * [Useful links](#useful-links)
