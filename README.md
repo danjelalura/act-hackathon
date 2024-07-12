@@ -12,7 +12,7 @@ Table of contents
 
 
 ## Mission
-### Theme : ACT SPIRIT
+### Theme : ACT SPIRIT 
 
 We're hosting this hackathon as a way to promote critical thinking, creativity, and problem solving. We strongly encourage you get out of your comfort zone and show the amazing skills we know you possess. 
 
