@@ -5,7 +5,7 @@ Table of contents
  
 * [Mission](#mission)
 * [Guidelines](#guidelines) 
-* [Ideas](#ideas)
+* [Ideas](#ideas) 
 * [Agenda](#agenda)
 * [Useful links](#useful-links)
 * [FAQ](#faq)
