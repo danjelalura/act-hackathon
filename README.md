@@ -2,7 +2,7 @@
 
 Table of contents 
 =================
-
+ 
 * [Mission](#mission)
 * [Guidelines](#guidelines) 
 * [Ideas](#ideas)
