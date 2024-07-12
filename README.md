@@ -3,7 +3,7 @@
 Table of contents 
 ==================
  
-* [Mission](#mission)
+* [Mission](#mission) 
 * [Guidelines](#guidelines) 
 * [Ideas](#ideas) 
 * [Agenda](#agenda)
