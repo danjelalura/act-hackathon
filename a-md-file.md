@@ -1,4 +1,4 @@
-# ACT SPIRIT Hackathon :computer:
+# ACT SPIRIT Hackathonn :computer:
 
 Table of contents
 =================
