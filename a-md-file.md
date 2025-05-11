@@ -1,6 +1,6 @@
 # ACT SPIRIT Hackathon :computer:
 
-Table of contents
+Table of contentss
 =================
 
 * [Mission](#mission)
